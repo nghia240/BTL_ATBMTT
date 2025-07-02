@@ -1,0 +1,2 @@
+Đây là một tài liệu pháp lý mẫu để thử nghiệm hệ thống truyền tệp an toàn.
+Tài liệu này chứa thông tin bí mật phải được bảo vệ trong quá trình truyền.

@@ -1,0 +1,2 @@
+Đây là file mẫu hợp lệ cho bài tập lớn đề tài 13.
+Nội dung này sẽ được mã hóa, truyền qua hai server trung gian và kiểm tra toàn vẹn, chữ ký số theo yêu cầu.

@@ -1,0 +1,90 @@
+2025-06-17T09:39:26.977000+00:00 - Kết nối từ ('127.0.0.1', 65370)
+2025-06-17T09:39:26.979212+00:00 - Nhận được Hello! từ người gửi
+2025-06-17T09:39:26.984120+00:00 - Nhận được Ready! từ Server 2
+2025-06-17T09:39:26.999845+00:00 - Nhận được khóa công khai của người nhận từ Server 2
+2025-06-17T09:39:27.015864+00:00 - Nhận được khóa công khai của người gửi
+2025-06-17T09:39:27.016986+00:00 - Đã chuyển tiếp khóa công khai của người gửi đến Server 2
+2025-06-17T09:39:27.018184+00:00 - Nhận được khóa phiên mã hóa từ người gửi
+2025-06-17T09:39:27.024483+00:00 - Nhận được gói tin từ người gửi
+2025-06-17T09:39:27.030834+00:00 - Nhận được ACK: Tệp đã nhận và xác minh từ Server 2
+2025-06-17T09:39:41.137941+00:00 - Kết nối từ ('127.0.0.1', 65376)
+2025-06-17T09:39:41.138951+00:00 - Nhận được Hello! từ người gửi
+2025-06-17T09:39:41.143011+00:00 - Nhận được Ready! từ Server 2
+2025-06-17T09:39:41.143011+00:00 - Nhận được khóa công khai của người nhận từ Server 2
+2025-06-17T09:39:41.157612+00:00 - Nhận được khóa công khai của người gửi
+2025-06-17T09:39:41.158703+00:00 - Đã chuyển tiếp khóa công khai của người gửi đến Server 2
+2025-06-17T09:39:41.159715+00:00 - Nhận được khóa phiên mã hóa từ người gửi
+2025-06-17T09:39:41.167055+00:00 - Nhận được gói tin từ người gửi
+2025-06-17T09:39:41.172126+00:00 - Nhận được ACK: Tệp đã nhận và xác minh từ Server 2
+2025-06-17T09:39:44.808812+00:00 - Kết nối từ ('127.0.0.1', 65380)
+2025-06-17T09:39:44.810951+00:00 - Nhận được Hello! từ người gửi
+2025-06-17T09:39:44.814409+00:00 - Nhận được Ready! từ Server 2
+2025-06-17T09:39:44.815419+00:00 - Nhận được khóa công khai của người nhận từ Server 2
+2025-06-17T09:39:44.831241+00:00 - Nhận được khóa công khai của người gửi
+2025-06-17T09:39:44.832250+00:00 - Đã chuyển tiếp khóa công khai của người gửi đến Server 2
+2025-06-17T09:39:44.832250+00:00 - Nhận được khóa phiên mã hóa từ người gửi
+2025-06-17T09:39:44.839401+00:00 - Nhận được gói tin từ người gửi
+2025-06-17T09:39:44.843660+00:00 - Nhận được ACK: Tệp đã nhận và xác minh từ Server 2
+2025-06-17T09:39:47.363272+00:00 - Kết nối từ ('127.0.0.1', 65384)
+2025-06-17T09:39:47.365304+00:00 - Nhận được Hello! từ người gửi
+2025-06-17T09:39:47.369548+00:00 - Nhận được Ready! từ Server 2
+2025-06-17T09:39:47.370560+00:00 - Nhận được khóa công khai của người nhận từ Server 2
+2025-06-17T09:39:47.387360+00:00 - Nhận được khóa công khai của người gửi
+2025-06-17T09:39:47.387360+00:00 - Đã chuyển tiếp khóa công khai của người gửi đến Server 2
+2025-06-17T09:39:47.389427+00:00 - Nhận được khóa phiên mã hóa từ người gửi
+2025-06-17T09:39:47.395691+00:00 - Nhận được gói tin từ người gửi
+2025-06-17T09:39:47.400959+00:00 - Nhận được ACK: Tệp đã nhận và xác minh từ Server 2
+2025-06-17T09:39:50.374840+00:00 - Kết nối từ ('127.0.0.1', 65388)
+2025-06-17T09:39:50.375853+00:00 - Nhận được Hello! từ người gửi
+2025-06-17T09:39:50.378903+00:00 - Nhận được Ready! từ Server 2
+2025-06-17T09:39:50.379912+00:00 - Nhận được khóa công khai của người nhận từ Server 2
+2025-06-17T09:39:50.398347+00:00 - Nhận được khóa công khai của người gửi
+2025-06-17T09:39:50.398347+00:00 - Đã chuyển tiếp khóa công khai của người gửi đến Server 2
+2025-06-17T09:39:50.399353+00:00 - Nhận được khóa phiên mã hóa từ người gửi
+2025-06-17T09:39:50.405730+00:00 - Nhận được gói tin từ người gửi
+2025-06-17T09:39:50.410775+00:00 - Nhận được ACK: Tệp đã nhận và xác minh từ Server 2
+2025-06-17T09:39:53.197631+00:00 - Kết nối từ ('127.0.0.1', 65392)
+2025-06-17T09:39:53.199660+00:00 - Nhận được Hello! từ người gửi
+2025-06-17T09:39:53.203899+00:00 - Nhận được Ready! từ Server 2
+2025-06-17T09:39:53.205897+00:00 - Nhận được khóa công khai của người nhận từ Server 2
+2025-06-17T09:39:53.224320+00:00 - Nhận được khóa công khai của người gửi
+2025-06-17T09:39:53.225327+00:00 - Đã chuyển tiếp khóa công khai của người gửi đến Server 2
+2025-06-17T09:39:53.226340+00:00 - Nhận được khóa phiên mã hóa từ người gửi
+2025-06-17T09:39:53.232605+00:00 - Nhận được gói tin từ người gửi
+2025-06-17T09:39:53.236640+00:00 - Nhận được ACK: Tệp đã nhận và xác minh từ Server 2
+2025-06-17T09:39:56.509627+00:00 - Kết nối từ ('127.0.0.1', 65399)
+2025-06-17T09:39:56.510631+00:00 - Nhận được Hello! từ người gửi
+2025-06-17T09:39:56.515224+00:00 - Nhận được Ready! từ Server 2
+2025-06-17T09:39:56.516236+00:00 - Nhận được khóa công khai của người nhận từ Server 2
+2025-06-17T09:39:56.534884+00:00 - Nhận được khóa công khai của người gửi
+2025-06-17T09:39:56.534884+00:00 - Đã chuyển tiếp khóa công khai của người gửi đến Server 2
+2025-06-17T09:39:56.535965+00:00 - Nhận được khóa phiên mã hóa từ người gửi
+2025-06-17T09:39:56.542339+00:00 - Nhận được gói tin từ người gửi
+2025-06-17T09:39:56.547500+00:00 - Nhận được ACK: Tệp đã nhận và xác minh từ Server 2
+2025-06-17T09:39:58.982254+00:00 - Kết nối từ ('127.0.0.1', 65404)
+2025-06-17T09:39:58.984744+00:00 - Nhận được Hello! từ người gửi
+2025-06-17T09:39:58.987773+00:00 - Nhận được Ready! từ Server 2
+2025-06-17T09:39:58.987773+00:00 - Nhận được khóa công khai của người nhận từ Server 2
+2025-06-17T09:39:59.004028+00:00 - Nhận được khóa công khai của người gửi
+2025-06-17T09:39:59.004028+00:00 - Đã chuyển tiếp khóa công khai của người gửi đến Server 2
+2025-06-17T09:39:59.005030+00:00 - Nhận được khóa phiên mã hóa từ người gửi
+2025-06-17T09:39:59.012715+00:00 - Nhận được gói tin từ người gửi
+2025-06-17T09:39:59.017835+00:00 - Nhận được ACK: Tệp đã nhận và xác minh từ Server 2
+2025-06-17T09:40:02.684320+00:00 - Kết nối từ ('127.0.0.1', 65408)
+2025-06-17T09:40:02.685361+00:00 - Nhận được Hello! từ người gửi
+2025-06-17T09:40:02.689765+00:00 - Nhận được Ready! từ Server 2
+2025-06-17T09:40:02.689765+00:00 - Nhận được khóa công khai của người nhận từ Server 2
+2025-06-17T09:40:02.705446+00:00 - Nhận được khóa công khai của người gửi
+2025-06-17T09:40:02.706560+00:00 - Đã chuyển tiếp khóa công khai của người gửi đến Server 2
+2025-06-17T09:40:02.707638+00:00 - Nhận được khóa phiên mã hóa từ người gửi
+2025-06-17T09:40:02.714919+00:00 - Nhận được gói tin từ người gửi
+2025-06-17T09:40:02.718953+00:00 - Nhận được ACK: Tệp đã nhận và xác minh từ Server 2
+2025-06-17T09:40:05.019720+00:00 - Kết nối từ ('127.0.0.1', 65412)
+2025-06-17T09:40:05.021745+00:00 - Nhận được Hello! từ người gửi
+2025-06-17T09:40:05.024889+00:00 - Nhận được Ready! từ Server 2
+2025-06-17T09:40:05.024889+00:00 - Nhận được khóa công khai của người nhận từ Server 2
+2025-06-17T09:40:05.040311+00:00 - Nhận được khóa công khai của người gửi
+2025-06-17T09:40:05.040311+00:00 - Đã chuyển tiếp khóa công khai của người gửi đến Server 2
+2025-06-17T09:40:05.041596+00:00 - Nhận được khóa phiên mã hóa từ người gửi
+2025-06-17T09:40:05.049809+00:00 - Nhận được gói tin từ người gửi
+2025-06-17T09:40:05.054034+00:00 - Nhận được ACK: Tệp đã nhận và xác minh từ Server 2
